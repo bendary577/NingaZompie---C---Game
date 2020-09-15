@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1600171813 source:/home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"include/Ninga.h"
+
+1600173150 source:/home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/src/Ninga.cpp
+	"Ninga.h"
+
+1600171330 /home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/include/Ninga.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"GameEntity.h"
+
+1600162282 source:/home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/src/Zompie.cpp
+	"Zompie.h"
+
+1600162281 /home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/include/Zompie.h
+
+1600170484 /home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/include/GameEntity.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1600170395 source:/home/bendary/mohamed yousef/Projects/Codeblocks Projects/NingaZompieGame/src/GameEntity.cpp
+	"GameEntity.h"
+
+1600175709 source:/home/bendary/mohamed yousef/My Projects/RealDependent Projects/Zompie Game - C++/NingaZompieGame/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"include/Ninga.h"
+
+1600171330 /home/bendary/mohamed yousef/My Projects/RealDependent Projects/Zompie Game - C++/NingaZompieGame/include/Ninga.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"GameEntity.h"
+
+1600170484 /home/bendary/mohamed yousef/My Projects/RealDependent Projects/Zompie Game - C++/NingaZompieGame/include/GameEntity.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1600170395 source:/home/bendary/mohamed yousef/My Projects/RealDependent Projects/Zompie Game - C++/NingaZompieGame/src/GameEntity.cpp
+	"GameEntity.h"
+
+1600173150 source:/home/bendary/mohamed yousef/My Projects/RealDependent Projects/Zompie Game - C++/NingaZompieGame/src/Ninga.cpp
+	"Ninga.h"
+
